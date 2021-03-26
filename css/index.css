@@ -17,18 +17,24 @@ body{
     font-size: 48px;
 }
 
+.page-subtitle{
+    color:white;
+    font-family: 'Dosis', sans-serif;
+    font-size: 35px;
+}   
+
 .Imersao{
     margin-right: auto;
     margin-left: auto;
     align-content: center;
     display: flex;
-    padding-top: 50px;
+    padding-top: 15px;
 }
 
 .controle{
     width: 750px;
     border-radius:80px;
-    padding-top:30px;
+    margin-left:5vh;
 }
 
 
