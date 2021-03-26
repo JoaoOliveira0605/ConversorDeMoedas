@@ -1,0 +1,39 @@
+body{
+    background-color:#1D1D1D;
+    margin: 0 auto;
+}
+
+.Logo{
+    margin-top:35px;
+    height: 70px;
+}
+
+.page-title{
+    display:block;
+    color:white;
+    margin-top: 60px;
+    margin-bottom: 0%;
+    font-family: 'Dosis', sans-serif;
+    font-size: 48px;
+}
+
+.Imersao{
+    margin-right: auto;
+    margin-left: auto;
+    align-content: center;
+    display: flex;
+    padding-top: 50px;
+}
+
+.controle{
+    width: 750px;
+    border-radius:80px;
+    padding-top:30px;
+}
+
+
+.container{
+    height: 50vh;
+    padding:0px;
+    text-align: center;
+}
